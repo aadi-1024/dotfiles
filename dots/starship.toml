@@ -1,0 +1,10 @@
+add_newline = false
+
+format = '''
+ [$directory ]()[❭](bold white)[❭](green)[❭ ](bold bright-green)
+'''
+
+[directory]
+format = '[$path]($style)'
+style = 'bright-purple'
+truncation_length = 1
