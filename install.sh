@@ -1,3 +1,3 @@
 #!/usr/bin/bash
 
-cp dots/* -r $HOME/.config/
+cp dots -r $HOME/
