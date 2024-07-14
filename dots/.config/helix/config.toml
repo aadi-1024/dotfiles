@@ -1,4 +1,12 @@
-theme = "monokai_pro_spectrum"
+theme = "papercolor-dark"
 
 [editor]
 line-number = "relative"
+
+[editor.soft-wrap]
+enable = true
+
+[editor.cursor-shape]
+insert = "underline"
+normal = "bar"
+select = "bar"
