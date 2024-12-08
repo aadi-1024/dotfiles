@@ -11,7 +11,7 @@ truncation_length = 1
 
 [python]
 style = 'bold yellow'
-format = '[ $version $virtualenv]($style)'
+format = '[ $version $virtualenv ]($style)'
 
 [git_branch]
 format = '[$symbol$branch(:$remote_branch) ]($style)'
