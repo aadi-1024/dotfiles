@@ -1,7 +1,7 @@
 add_newline = false
 
 format = '''
- [$directory ]()[❭](bold white)[❭](bold green)[❭ ](bold bright-green)[$python]()[$git_branch]()[$git_status]()
+ [$directory ]()[λ ](bold bright-green)
 '''
 
 [directory]
@@ -14,5 +14,5 @@ style = 'bold yellow'
 format = '[ $version $virtualenv ]($style)'
 
 [git_branch]
-format = '[$symbol$branch(:$remote_branch) ]($style)'
+format = '[$branch(:$remote_branch) ]($style)'
 style = 'bold green'
