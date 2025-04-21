@@ -1,12 +1,12 @@
 add_newline = false
 
 format = '''
- [$directory ]()[λ ](bold bright-green)
+ [$directory ]()[λ ](bold #A16A94)
 '''
 
 [directory]
 format = '[$path]($style)'
-style = 'bright-purple'
+style = "#E8BBD0"
 truncation_length = 1
 
 [python]
