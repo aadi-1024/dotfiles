@@ -1,7 +1,8 @@
-theme = "papercolor-dark"
+theme = "ao"
 
 [editor]
 line-number = "relative"
+true-color = true
 
 [editor.soft-wrap]
 enable = true
